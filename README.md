@@ -8,7 +8,6 @@ Building practical AI systems for real production environments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ElmTran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmtran)
 [![Email](https://img.shields.io/badge/Email-c897611977%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:c897611977@gmail.com)
-[![Website](https://img.shields.io/badge/Website-elmtran.com-fbb441?style=flat-square&logo=jekyll&logoColor=white)](https://elmtran.com/)
 
 </div>
 
@@ -39,8 +38,6 @@ They cover practical AI platform architecture, LLM platform design, enterprise a
 ### Writing
 
 I also write about engineering, investing, travel, memory, and the small details of life.
-
-[elmtran.com](https://elmtran.com/)
 
 ---
 
