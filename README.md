@@ -35,12 +35,6 @@ They cover practical AI platform architecture, LLM platform design, enterprise a
 
 ---
 
-### Writing
-
-I also write about engineering, investing, travel, memory, and the small details of life.
-
----
-
 ### Contact
 
 - Email: [c897611977@gmail.com](mailto:c897611977@gmail.com)
